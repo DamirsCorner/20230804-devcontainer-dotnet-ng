@@ -132,5 +132,8 @@
       }
     }
   },
-  "defaultProject": "_20230804_devcontainer_dotnet_ng"
+  "defaultProject": "_20230804_devcontainer_dotnet_ng",
+  "cli": {
+    "analytics": false
+  }
 }
